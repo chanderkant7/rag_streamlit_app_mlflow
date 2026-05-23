@@ -1,0 +1,32 @@
+execution_duration_ms: 961
+request_preview: '{"query": "whats mongodb", "embed_client": {"model": "text-embedding-ada-002",
+  "dimensions": null, "deployment": "text-embedding-ada-002_2", "openai_api_version":
+  "2025-01-01-preview", "openai_api_base": null, "openai_api_type": "azure_ad", "openai_proxy":
+  null, "embedding_ctx_length": 8191, "openai_api_key": null, "openai_organization":
+  null, "allowed_special": null, "disallowed_special": null, "chunk_size": 2048, "max_retries":
+  2, "request_timeout": null, "headers": null, "tiktoken_enabled": true, "tiktoken_model_name":
+  null, "show_progress_bar": false, "model_kwargs": {}, "skip_empty": false, "default_headers":
+  {"projectId": "d05f58fd-c9eb-4b3f-a748-2c1d3dc5f887"}, "default_query": null, "retry_min_seconds":
+  4, "retry_max_seconds": 20, "http_client": null, "http_async_client": null, "check_embedding_ctx_length":
+  true, "azure_endpoint": "https://api.uhg.com/api/cloud/api-management/ai-gateway/1.0",
+  "azure_ad_token": "**********", "azure_ad_token_provider": null, "azure_ad_async_to...'
+request_time: '2026-05-22T07:46:51.559Z'
+response_preview: '[{"text": "MongoDB is a popular, document-oriented NoSQL database
+  that stores data in flexible, JSON-like formats called BSON. Designed to handle
+  large volumes of unstructured or rapidly changing data, it enables fast storage,
+  easy scalability, and eliminates the need for rigid schemas. [1, 2, 3, 4, 5]  \nKey
+  Concepts \n\n• Documents: The fundamental unit of data. They are essentially records
+  composed of key-value pairs, closely resembling JSON objects. \n• Collections: The
+  equivalent of tables in relational databases. They group multiple documents together.
+  \n• Dynamic Schema: Unlike traditional SQL databases (which require predefined columns),
+  MongoDB allows documents within the same collection to have different fields and
+  structures. [2, 5, 6, 7, 8]  \n\nPrimary Advantages \n\n• Scalability: It scales
+  horizontally via \"sharding,\" meaning it distributes data across multiple servers
+  rather than requiring you to upgrade a single expensive server. \n• High Performance:
+  Embedded doc...'
+state: OK
+trace_id: tr-c2284110248a76571c1921125611ed31
+trace_location:
+  mlflow_experiment:
+    experiment_id: '886269448959882695'
+  type: MLFLOW_EXPERIMENT

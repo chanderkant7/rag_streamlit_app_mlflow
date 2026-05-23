@@ -1,0 +1,8 @@
+artifact_location: mlflow-artifacts:/886269448959882695
+creation_time: 1779435940442
+experiment_id: '886269448959882695'
+last_update_time: 1779435940442
+lifecycle_stage: active
+name: rag-streamlit
+trace_location: null
+workspace: default

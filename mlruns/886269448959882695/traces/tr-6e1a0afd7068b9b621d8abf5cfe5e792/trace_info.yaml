@@ -1,0 +1,21 @@
+execution_duration_ms: 1788
+request_preview: '{"chat_client": "<openai.lib.azure.AzureOpenAI object at 0x11b45e350>",
+  "question": "hi", "context_chunks": [" and maintain a Solution Intent and review
+  with the Architecture \nReview Board quarterly. \no Solution Intent Template can
+  be found here: 05 Architecture Review Board (ARB) \n• When integrating with products
+  or services that cross cloud provider boundaries follow the \nguidance found here:
+  Multi Cloud Integration Guidance.pptx \n• The OI managed Splunk Observability tools
+  should be utilized for logging and monitoring. \no https://dojo360.optum.com/docs/devops/lob/uhg/optum/optuminsight/observability/i\nndex.html
+  ", " these ca ses \nare relatively rare. \n There are a couple of techniques to
+  provide session consistency. A common way, and often \nthe easiest way, is to have
+  a sticky session: a session that’s tied to one node (this is also \ncalled session
+  affinity).  \n A sticky session allows you to ensure that as long as you keep read-your-writes
+  consistency \non a node, yo...'
+request_time: '2026-05-22T07:45:52.569Z'
+response_preview: '"Hello! How can I assist you today?"'
+state: OK
+trace_id: tr-6e1a0afd7068b9b621d8abf5cfe5e792
+trace_location:
+  mlflow_experiment:
+    experiment_id: '886269448959882695'
+  type: MLFLOW_EXPERIMENT

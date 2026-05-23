@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/886269448959882695/bef30ed9ace243ba95a94e0b8e13b7a5/artifacts
+end_time: 1779436016939
+entry_point_name: ''
+experiment_id: '886269448959882695'
+lifecycle_stage: active
+run_id: bef30ed9ace243ba95a94e0b8e13b7a5
+run_name: resilient-wasp-983
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779436011418
+status: 3
+tags: []
+user_id: csharm33

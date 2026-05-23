@@ -1,0 +1,32 @@
+execution_duration_ms: 1384
+request_preview: '{"query": "whats nosql", "embed_client": {"model": "text-embedding-ada-002",
+  "dimensions": null, "deployment": "text-embedding-ada-002_2", "openai_api_version":
+  "2025-01-01-preview", "openai_api_base": null, "openai_api_type": "azure_ad", "openai_proxy":
+  null, "embedding_ctx_length": 8191, "openai_api_key": null, "openai_organization":
+  null, "allowed_special": null, "disallowed_special": null, "chunk_size": 2048, "max_retries":
+  2, "request_timeout": null, "headers": null, "tiktoken_enabled": true, "tiktoken_model_name":
+  null, "show_progress_bar": false, "model_kwargs": {}, "skip_empty": false, "default_headers":
+  {"projectId": "d05f58fd-c9eb-4b3f-a748-2c1d3dc5f887"}, "default_query": null, "retry_min_seconds":
+  4, "retry_max_seconds": 20, "http_client": null, "http_async_client": null, "check_embedding_ctx_length":
+  true, "azure_endpoint": "https://api.uhg.com/api/cloud/api-management/ai-gateway/1.0",
+  "azure_ad_token": "**********", "azure_ad_token_provider": null, "azure_ad_async_toke...'
+request_time: '2026-05-23T01:36:52Z'
+response_preview: '[{"text": " data storage. Two companies in particular —Google and
+  \nAmazon—have been very influential. Both were on the forefront of running large
+  \nclusters of this kind; furthermore, they were capturing huge amounts of data.
+  \n \nEmergence of NOSQL \n The emergence of NoSQL databases addresses many of the
+  limitations of traditional \nrelational databases, especially in handling large
+  -scale, distributed, and unstructured \ndata. NoSQL databases are designed to provide
+  flexible schemas and horizontal \nscalability, making them well-suited for modern
+  applications that require quick access \nto large volumes of diverse data. Unlike
+  relational databases, which rely on a rigid \nschema and ACID transactions, NoSQL
+  databases often sacrifice some aspects of \nconsistency to  achieve higher availability
+  and partition tolerance, as per the CAP \ntheorem. \n NoSQL databases come in various
+  types, including document stores (e.g., MongoDB), \nkey-value stores (e.g., Redis),
+  column -family sto...'
+state: OK
+trace_id: tr-f6d75526448b7f8c98f6716b9ee72682
+trace_location:
+  mlflow_experiment:
+    experiment_id: '886269448959882695'
+  type: MLFLOW_EXPERIMENT

@@ -1,0 +1,10 @@
+openai
+httpx
+python-dotenv
+langchain-openai
+tiktoken
+chromadb
+pypdf
+streamlit
+watchdog
+mlflow

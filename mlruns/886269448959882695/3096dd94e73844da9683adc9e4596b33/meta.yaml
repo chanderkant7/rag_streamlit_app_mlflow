@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/886269448959882695/3096dd94e73844da9683adc9e4596b33/artifacts
+end_time: 1779500177704
+entry_point_name: ''
+experiment_id: '886269448959882695'
+lifecycle_stage: active
+run_id: 3096dd94e73844da9683adc9e4596b33
+run_name: ambitious-snipe-131
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779500173174
+status: 3
+tags: []
+user_id: csharm33
